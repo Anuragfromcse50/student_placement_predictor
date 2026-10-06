@@ -1,5 +1,7 @@
 🎓 Student Placement Predictor
 
+link - https://anuragfromcse50-student-placement-predictor-app-kiosgv.streamlit.app/
+
 A machine-learning web application that predicts whether a student is
 likely to be placed using academic and activity-related information.
 
